@@ -29,7 +29,7 @@
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
-    "@babel/core": "7.9.0",
+    "@babel/core": "7.29.6",
     "@babel/runtime": "7.28.2",
     "@react-native-community/eslint-config": "0.0.5",
     "babel-jest": "29.7.0",
